@@ -1,3 +1,31 @@
+
 table{
-    border:2px crimson;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    background-color:gray
 }
+table,td,th{
+    border: 3px solid rgb(15, 49, 68);
+    padding: 10px;
+ 
+  
+}
+th {
+    height: 50px;
+    }
+ td{
+        height:30px;
+    }
+ thead{
+        background-color: indigo;
+    }
+    
+
+
+
+
+
+
+
+
